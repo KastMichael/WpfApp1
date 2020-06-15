@@ -28,7 +28,7 @@ namespace WpfApp1
         private void butTest_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Test");
-            // Test
+            // Test 2
         }
     }
 }
